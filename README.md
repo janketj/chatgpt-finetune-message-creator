@@ -14,7 +14,7 @@ Training data is created in conversational chat format to be used with ChatGPT.
 
 ```
 1. Clone repository 
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/janketj/chatgpt-finetune-message-creator.git
 
 2. Go into folder
 cd chatgpt-finetune-message-creator
