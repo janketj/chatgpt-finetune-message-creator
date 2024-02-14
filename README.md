@@ -1,6 +1,6 @@
 # chatgpt-finetune-message-creator
-Interactively create training data for ChatGPT with node.js.
-Training data is created in conversational chat format to be used with ChatGPT.
+Interactively formats your training data for ChatGPT with node.js.
+Training data is transformed into conversational chat format to be used with ChatGPT.
 
 ## Training Data Example Format
 
